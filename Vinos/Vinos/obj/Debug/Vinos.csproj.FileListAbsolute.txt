@@ -83,3 +83,10 @@ C:\Proyectos\Vinos\Vinos\Vinos\bin\zh-Hant\System.Spatial.resources.dll
 C:\Proyectos\Vinos\Vinos\Vinos\obj\Debug\Vinos.csprojResolveAssemblyReference.cache
 C:\Proyectos\Vinos\Vinos\Vinos\obj\Debug\Vinos.dll
 C:\Proyectos\Vinos\Vinos\Vinos\obj\Debug\Vinos.pdb
+C:\Proyectos\Vinos\Vinos\Vinos\bin\VinosResources.resx
+C:\Proyectos\Vinos\Vinos\Vinos\bin\VinosResources.Designer.cs
+C:\Proyectos\Vinos\Vinos\Vinos\bin\Resources.dll
+C:\Proyectos\Vinos\Vinos\Vinos\bin\Resources.pdb
+C:\Proyectos\Vinos\Vinos\Vinos\bin\VinosResources.es.resx
+C:\Proyectos\Vinos\Vinos\Vinos\bin\VinosResources.es.Designer.cs
+C:\Proyectos\Vinos\Vinos\Vinos\bin\es\Resources.resources.dll

@@ -1,0 +1,8 @@
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\VinosResources.resx
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\VinosResources.Designer.cs
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\VinosRecursos.dll
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\VinosRecursos.pdb
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\VinosRecursos.dll
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\VinosRecursos.pdb
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\VinosRecursos.VinosResources.resources
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\VinosRecursos.csproj.GenerateResource.Cache

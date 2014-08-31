@@ -80,3 +80,7 @@ C:\Proyectos\Vinos\Vinos\Vinos.Tests\bin\Debug\zh-Hant\System.Spatial.resources.
 C:\Proyectos\Vinos\Vinos\Vinos.Tests\obj\Debug\Vinos.Tests.csprojResolveAssemblyReference.cache
 C:\Proyectos\Vinos\Vinos\Vinos.Tests\obj\Debug\Vinos.Tests.dll
 C:\Proyectos\Vinos\Vinos\Vinos.Tests\obj\Debug\Vinos.Tests.pdb
+C:\Proyectos\Vinos\Vinos\Vinos.Tests\bin\Debug\VinosResources.resx
+C:\Proyectos\Vinos\Vinos\Vinos.Tests\bin\Debug\VinosResources.Designer.cs
+C:\Proyectos\Vinos\Vinos\Vinos.Tests\bin\Debug\VinosResources.es.resx
+C:\Proyectos\Vinos\Vinos\Vinos.Tests\bin\Debug\VinosResources.es.Designer.cs

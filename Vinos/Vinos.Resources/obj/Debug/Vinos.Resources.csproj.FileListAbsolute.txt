@@ -1,0 +1,6 @@
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\VinosResources.Designer.cs
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\Vinos.Resources.dll
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\bin\Debug\Vinos.Resources.pdb
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\Vinos.Resources.dll
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\Vinos.Resources.pdb
+C:\Proyectos\Vinos\Vinos\Vinos.Resources\obj\Debug\Vinos.Resources.g.resources

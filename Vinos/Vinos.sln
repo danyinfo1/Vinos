@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vinos", "Vinos\Vinos.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vinos.Tests", "Vinos.Tests\Vinos.Tests.csproj", "{DB40B854-B88D-4932-AF4F-FA247F945B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Vinos.Resources\Resources.csproj", "{D3EFC35B-B927-49F9-80E5-269468A92634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{DB40B854-B88D-4932-AF4F-FA247F945B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB40B854-B88D-4932-AF4F-FA247F945B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB40B854-B88D-4932-AF4F-FA247F945B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EFC35B-B927-49F9-80E5-269468A92634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EFC35B-B927-49F9-80E5-269468A92634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EFC35B-B927-49F9-80E5-269468A92634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EFC35B-B927-49F9-80E5-269468A92634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

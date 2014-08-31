@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -7,6 +8,7 @@
         <meta name="viewport" content="width=device-width" />
         <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
         @Scripts.Render("~/bundles/modernizr")
+        <link href="~/Content/Site.css" rel="stylesheet" />
     </head>
     <body>
         <div>
@@ -26,22 +28,22 @@
             
                     <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown active">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">HOME</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_Home</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">WORKS</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_Works</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_About</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">BLOG</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_Blogs</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">CONTACTS</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_Contacts</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">FEATURES <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@Resources.VinosResources.App_Features <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         <li><a href="/">FEATURE 1></li>
                         <li><a href="/Home/About">FEATURE 2</a></li>
